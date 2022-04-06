@@ -1,3 +1,5 @@
+//https://pastebin.com/75hwzUuD
+
 #include <stdio.h>
 #include <stdlib.h>
 
